@@ -3248,13 +3248,12 @@ img.u-pull-left {
     width               : 100%;
     background-color    : var(--color-gray-4);
     height              : 100vh; /* takes up the full screen height */
-    background-image    : url('/https://i-jamil.github.io/Iqra_Jamil_Website/images/mybackground.jpg') !important;
+    background-image    : url('images/mybackground.jpg');
     background-repeat   : no-repeat;
     background-position : center;
     background-size     : cover;
     position            : relative;
 }
-    <img src="images/mybackground.jpg" alt="Banner Image">
 
 
 .s-intro__bg::after {
