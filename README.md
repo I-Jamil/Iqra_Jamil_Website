@@ -1,2 +1,2 @@
 # Iqra Jamil's Website
-Welcome to my Github repository for my website!
+Welcome to the Github repository for my website!
