@@ -4158,4 +4158,10 @@ img.u-pull-left {
         height : 1.6rem;
         width  : 1.6rem;
     }
+    /* TEMPORARY: Disable animations so content always shows */
+[data-animate-el] {
+    opacity: 1 !important;
+    transform: none !important;
+}
+
 }
